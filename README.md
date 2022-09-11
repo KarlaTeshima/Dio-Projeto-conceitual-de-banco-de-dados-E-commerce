@@ -1,1 +1,1 @@
-# Dio-Projeto-conceitual-de-banco-de-dados-E-commerce
+# Dio-Projeto conceitual de banco de dados E-commerce
